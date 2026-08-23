@@ -15,7 +15,7 @@
             "last_commit": "2026-07-25T18:36:25Z",
             "owner": "lit",
             "repo": "lit",
-            "stars": 21782
+            "stars": 21783
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-25T18:36:25Z",
             "owner": "lit",
             "repo": "lit",
-            "stars": 21782
+            "stars": 21783
           }
         }
       ],
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 257485422,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T18:31:23Z",
+            "last_commit": "2026-08-23T17:36:15Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82474
+            "stars": 82493
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 257485422,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T18:31:23Z",
+            "last_commit": "2026-08-23T17:36:15Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82474
+            "stars": 82493
           }
         },
         {
@@ -411,10 +411,10 @@
             "archived": false,
             "id": 167405382,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T08:08:25Z",
+            "last_commit": "2026-08-23T08:08:45Z",
             "owner": "UI5",
             "repo": "webcomponents",
-            "stars": 1769
+            "stars": 1770
           }
         },
         {
@@ -426,7 +426,7 @@
             "archived": false,
             "id": 158297197,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:37:51Z",
+            "last_commit": "2026-08-23T12:58:34Z",
             "owner": "adobe",
             "repo": "spectrum-web-components",
             "stars": 1529
@@ -444,7 +444,7 @@
             "last_commit": "2026-08-21T22:15:06Z",
             "owner": "shoelace-style",
             "repo": "webawesome",
-            "stars": 1290
+            "stars": 1292
           }
         },
         {
@@ -456,10 +456,10 @@
             "archived": false,
             "id": 324593493,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T07:42:33Z",
+            "last_commit": "2026-08-23T19:36:45Z",
             "owner": "vaadin",
             "repo": "web-components",
-            "stars": 579
+            "stars": 580
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-21T18:57:02Z",
             "owner": "vidstack",
             "repo": "player",
-            "stars": 3658
+            "stars": 3661
           }
         },
         {
@@ -717,7 +717,7 @@
             "archived": false,
             "id": 116304230,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T19:24:59Z",
+            "last_commit": "2026-08-23T14:51:36Z",
             "owner": "patternfly",
             "repo": "patternfly-elements",
             "stars": 393
@@ -1086,7 +1086,7 @@
             "last_commit": "2026-08-14T20:43:48Z",
             "owner": "toeverything",
             "repo": "blocksuite",
-            "stars": 5986
+            "stars": 5987
           }
         },
         {
@@ -1131,7 +1131,7 @@
             "last_commit": "2026-07-31T23:45:57Z",
             "owner": "Aejkatappaja",
             "repo": "phantom-ui",
-            "stars": 788
+            "stars": 789
           }
         },
         {
@@ -1426,7 +1426,7 @@
             "last_commit": "2024-02-01T21:36:52Z",
             "owner": "developit",
             "repo": "htm",
-            "stars": 9045
+            "stars": 9044
           }
         },
         {
@@ -1464,7 +1464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T21:41:54.591Z",
+    "last_updated": "2026-08-23T21:41:12.887Z",
     "original_repository": "web-padawan/awesome-lit",
     "original_repository_id": 135072666,
     "original_repository_sha": "ecc9ad6097e135c963d4bf1f83beba412d50996a",
