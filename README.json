@@ -15,7 +15,7 @@
             "last_commit": "2026-07-25T18:36:25Z",
             "owner": "lit",
             "repo": "lit",
-            "stars": 21783
+            "stars": 21782
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-07-25T18:36:25Z",
             "owner": "lit",
             "repo": "lit",
-            "stars": 21783
+            "stars": 21782
           }
         }
       ],
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 257485422,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T17:36:15Z",
+            "last_commit": "2026-08-24T04:58:55Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82493
+            "stars": 82507
           }
         },
         {
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 257485422,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T17:36:15Z",
+            "last_commit": "2026-08-24T04:58:55Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82493
+            "stars": 82507
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-07-16T20:38:39Z",
             "owner": "pwa-builder",
             "repo": "pwa-starter",
-            "stars": 1331
+            "stars": 1332
           }
         },
         {
@@ -323,7 +323,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "ullr",
           "description": "Build Web Components with functional programming using Lit.",
           "children": [],
           "repo_info": {
@@ -338,7 +338,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "localize",
           "description": "A micro library for localizing custom elements, providing directives for Lit.",
           "children": [],
           "repo_info": {
@@ -353,7 +353,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "pure-lit",
           "description": "Register your Lit elements as pure functions.",
           "children": [],
           "repo_info": {
@@ -384,7 +384,7 @@
             "last_commit": "2026-08-21T19:32:39Z",
             "owner": "material-components",
             "repo": "material-web",
-            "stars": 11191
+            "stars": 11196
           }
         },
         {
@@ -411,7 +411,7 @@
             "archived": false,
             "id": 167405382,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T08:08:45Z",
+            "last_commit": "2026-08-24T13:55:23Z",
             "owner": "UI5",
             "repo": "webcomponents",
             "stars": 1770
@@ -426,7 +426,7 @@
             "archived": false,
             "id": 158297197,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T12:58:34Z",
+            "last_commit": "2026-08-24T13:46:03Z",
             "owner": "adobe",
             "repo": "spectrum-web-components",
             "stars": 1529
@@ -444,7 +444,7 @@
             "last_commit": "2026-08-21T22:15:06Z",
             "owner": "shoelace-style",
             "repo": "webawesome",
-            "stars": 1292
+            "stars": 1293
           }
         },
         {
@@ -456,10 +456,10 @@
             "archived": false,
             "id": 324593493,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T19:36:45Z",
+            "last_commit": "2026-08-24T13:39:37Z",
             "owner": "vaadin",
             "repo": "web-components",
-            "stars": 580
+            "stars": 581
           }
         },
         {
@@ -591,7 +591,7 @@
             "archived": false,
             "id": 174205995,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T21:24:09Z",
+            "last_commit": "2026-08-24T14:06:24Z",
             "owner": "BrightspaceUI",
             "repo": "core",
             "stars": 79
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-21T18:57:02Z",
             "owner": "vidstack",
             "repo": "player",
-            "stars": 3661
+            "stars": 3663
           }
         },
         {
@@ -717,7 +717,7 @@
             "archived": false,
             "id": 116304230,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T14:51:36Z",
+            "last_commit": "2026-08-24T14:05:00Z",
             "owner": "patternfly",
             "repo": "patternfly-elements",
             "stars": 393
@@ -807,7 +807,7 @@
             "archived": false,
             "id": 366715251,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T21:04:54Z",
+            "last_commit": "2026-08-24T11:38:20Z",
             "owner": "IgniteUI",
             "repo": "igniteui-webcomponents",
             "stars": 169
@@ -822,7 +822,7 @@
             "archived": false,
             "id": 315865767,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T13:52:06Z",
+            "last_commit": "2026-08-24T01:14:02Z",
             "owner": "umbraco",
             "repo": "Umbraco.UI",
             "stars": 150
@@ -927,7 +927,7 @@
             "archived": false,
             "id": 139985245,
             "language": "HTML",
-            "last_commit": "2026-08-22T21:18:46Z",
+            "last_commit": "2026-08-23T22:25:59Z",
             "owner": "stryker-mutator",
             "repo": "mutation-testing-elements",
             "stars": 29
@@ -972,7 +972,7 @@
             "archived": false,
             "id": 351007142,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T07:54:05Z",
+            "last_commit": "2026-08-24T07:54:59Z",
             "owner": "equinor",
             "repo": "fusion-web-components",
             "stars": 13
@@ -1046,7 +1046,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "model-viewer",
           "description": "A web component for rendering interactive 3D models.",
           "children": [],
           "repo_info": {
@@ -1056,12 +1056,12 @@
             "last_commit": "2026-07-07T21:23:39Z",
             "owner": "google",
             "repo": "model-viewer",
-            "stars": 8207
+            "stars": 8209
           }
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "lightGallery",
           "description": "Full featured JavaScript image and video gallery for Lit.",
           "children": [],
           "repo_info": {
@@ -1071,12 +1071,12 @@
             "last_commit": "2026-08-07T09:02:04Z",
             "owner": "sachinchoolur",
             "repo": "lightGallery",
-            "stars": 7048
+            "stars": 7050
           }
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "blocksuite",
           "description": "Block based editor, designed for general-purpose collaborative applications.",
           "children": [],
           "repo_info": {
@@ -1086,12 +1086,12 @@
             "last_commit": "2026-08-14T20:43:48Z",
             "owner": "toeverything",
             "repo": "blocksuite",
-            "stars": 5987
+            "stars": 5990
           }
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "RapiDoc",
           "description": "Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec.",
           "children": [],
           "repo_info": {
@@ -1106,7 +1106,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "lottie-player",
           "description": "Web Component for easily embedding and playing Lottie animations.",
           "children": [],
           "repo_info": {
@@ -1121,7 +1121,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "phantom-ui",
           "description": "Structure-aware shimmer skeleton loader that measures the real DOM to generate overlay blocks automatically.",
           "children": [],
           "repo_info": {
@@ -1136,7 +1136,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "api-viewer-element",
           "description": "API documentation and live playground for Web Components.",
           "children": [],
           "repo_info": {
@@ -1151,7 +1151,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "json-viewer",
           "description": "Web Component to visualize JSON data in a tree view.",
           "children": [],
           "repo_info": {
@@ -1166,7 +1166,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "responsive-image",
           "description": "Web component for rendering responsive images.",
           "children": [],
           "repo_info": {
@@ -1181,7 +1181,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "app-datepicker",
           "description": "Datepicker element built with LitElement and Material Design 2.",
           "children": [],
           "repo_info": {
@@ -1196,7 +1196,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "round-slider",
           "description": "Simple round slider web component built with Lit.",
           "children": [],
           "repo_info": {
@@ -1211,7 +1211,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "lit-datatable",
           "description": "Material Design implementation of a data table, powered by LitElement.",
           "children": [],
           "repo_info": {
@@ -1226,7 +1226,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "burgton-button",
           "description": "Simple to use, customizable and accessible burger-button element.",
           "children": [],
           "repo_info": {
@@ -1241,7 +1241,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "lit-image-cropper",
           "description": "Fast and lightweight image cropper component.",
           "children": [],
           "repo_info": {
@@ -1256,7 +1256,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "helium-animated-pages",
           "description": "Web component for creating CSS animations built with Lit.",
           "children": [],
           "repo_info": {
@@ -1271,7 +1271,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "granite-qrcode-generator",
           "description": "Custom element to generate and render QR Codes, using qr.js library.",
           "children": [],
           "repo_info": {
@@ -1286,7 +1286,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "codesandbox-button",
           "description": "Custom Element that shows a CodeSandbox demo when you click on it.",
           "children": [],
           "repo_info": {
@@ -1305,6 +1305,50 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mappa",
+              "description": "Fast import map generator for ES modules, resolving bare specifiers from package.json dependencies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1133698121,
+                "language": "Go",
+                "last_commit": "2026-07-22T07:16:31Z",
+                "owner": "bennypowers",
+                "repo": "mappa",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Building"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vim-html-template-literals",
+              "description": "Syntax highlighting and indentation for HTML inside of tagged template literals.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125744234,
+                "language": "Vim Script",
+                "last_commit": "2024-09-13T20:55:38Z",
+                "owner": "jonsmithers",
+                "repo": "vim-html-template-literals",
+                "stars": 78
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IDE Plugins"
+        },
         {
           "children": [
             {
@@ -1464,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:41:12.887Z",
+    "last_updated": "2026-08-24T14:06:58.593Z",
     "original_repository": "web-padawan/awesome-lit",
     "original_repository_id": 135072666,
     "original_repository_sha": "ecc9ad6097e135c963d4bf1f83beba412d50996a",
