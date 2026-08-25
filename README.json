@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lit/lit",
           "description": null,
           "children": [],
           "repo_info": {
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-24T04:58:55Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82514
+            "stars": 82519
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-24T04:58:55Z",
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82514
+            "stars": 82519
           }
         },
         {
@@ -411,7 +411,7 @@
             "archived": false,
             "id": 167405382,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:44:39Z",
+            "last_commit": "2026-08-25T05:41:41Z",
             "owner": "UI5",
             "repo": "webcomponents",
             "stars": 1770
@@ -426,7 +426,7 @@
             "archived": false,
             "id": 158297197,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T20:24:18Z",
+            "last_commit": "2026-08-25T05:43:28Z",
             "owner": "adobe",
             "repo": "spectrum-web-components",
             "stars": 1530
@@ -1056,7 +1056,7 @@
             "last_commit": "2026-07-07T21:23:39Z",
             "owner": "google",
             "repo": "model-viewer",
-            "stars": 8209
+            "stars": 8210
           }
         },
         {
@@ -1071,7 +1071,7 @@
             "last_commit": "2026-08-07T09:02:04Z",
             "owner": "sachinchoolur",
             "repo": "lightGallery",
-            "stars": 7050
+            "stars": 7049
           }
         },
         {
@@ -1161,7 +1161,7 @@
             "last_commit": "2025-04-03T14:48:41Z",
             "owner": "alenaksu",
             "repo": "json-viewer",
-            "stars": 241
+            "stars": 242
           }
         },
         {
@@ -1508,7 +1508,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:49:37.273Z",
+    "last_updated": "2026-08-25T06:04:24.676Z",
     "original_repository": "web-padawan/awesome-lit",
     "original_repository_id": 135072666,
     "original_repository_sha": "ecc9ad6097e135c963d4bf1f83beba412d50996a",
