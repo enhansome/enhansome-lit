@@ -2,7 +2,7 @@
 
 > A curated list of awesome Lit resources.
 
-[Lit](https://github.com/lit/lit) ⭐ 21,794 | 🐛 719 | 🌐 TypeScript | 📅 2026-07-25 — a simple library for building fast, lightweight web components.
+[Lit](https://github.com/lit/lit) ⭐ 21,793 | 🐛 719 | 🌐 TypeScript | 📅 2026-07-25 — a simple library for building fast, lightweight web components.
 
 At Lit's core is a boilerplate-killing component base class that provides reactive state, scoped styles, and a declarative template system that's tiny, fast and expressive.
 
@@ -44,8 +44,8 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Community
 
-* [GitHub](https://github.com/lit/lit) ⭐ 21,794 | 🐛 719 | 🌐 TypeScript | 📅 2026-07-25
-* [GitHub Discussions](https://github.com/lit/lit/discussions) ⭐ 21,794 | 🐛 719 | 🌐 TypeScript | 📅 2026-07-25
+* [GitHub](https://github.com/lit/lit) ⭐ 21,793 | 🐛 719 | 🌐 TypeScript | 📅 2026-07-25
+* [GitHub Discussions](https://github.com/lit/lit/discussions) ⭐ 21,793 | 🐛 719 | 🌐 TypeScript | 📅 2026-07-25
 * [Discord](https://discord.com/invite/buildWithLit)
 * [Twitter](https://twitter.com/buildWithLit)
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/lit+or+lit-html+or+lit-element)
@@ -59,8 +59,8 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Starter Templates
 
-* [Vite Lit Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) ⭐ 82,576 | 🐛 770 | 🌐 TypeScript | 📅 2026-08-28 - Lit based template preset for Vite.
-* [Vite Lit TS Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) ⭐ 82,576 | 🐛 770 | 🌐 TypeScript | 📅 2026-08-28 - Lit and TypeScript based template preset for Vite.
+* [Vite Lit Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) ⭐ 82,575 | 🐛 771 | 🌐 TypeScript | 📅 2026-08-28 - Lit based template preset for Vite.
+* [Vite Lit TS Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) ⭐ 82,575 | 🐛 771 | 🌐 TypeScript | 📅 2026-08-28 - Lit and TypeScript based template preset for Vite.
 * [pwa-starter](https://github.com/pwa-builder/pwa-starter) ⭐ 1,334 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-16 - LitElement edition of the PWABuilder pwa-starter.
 * [LitElement TypeScript starter](https://github.com/lit/lit-element-starter-ts) ⭐ 541 | 🐛 20 | 🌐 JavaScript | 📅 2025-12-23 - Sample component using LitElement with TypeScript.
 * [LitElement JavaScript starter](https://github.com/lit/lit-element-starter-js) ⚠️ Archived - Sample component using LitElement with JavaScript.
@@ -197,7 +197,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Standalone Components
 
-* [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) ⭐ 8,218 | 🐛 117 | 🌐 TypeScript | 📅 2026-07-07 - A web component for rendering interactive 3D models.
+* [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) ⭐ 8,219 | 🐛 117 | 🌐 TypeScript | 📅 2026-07-07 - A web component for rendering interactive 3D models.
 * [`<light-gallery>`](https://github.com/sachinchoolur/lightGallery/tree/master/lightgallery-lit) ⭐ 7,051 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-07 - Full featured JavaScript image and video gallery for Lit.
 * [`<editor-container>`](https://github.com/toeverything/blocksuite) ⭐ 5,994 | 🐛 195 | 🌐 TypeScript | 📅 2026-08-26 - Block based editor, designed for general-purpose collaborative applications.
 * [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) ⭐ 1,899 | 🐛 138 | 🌐 JavaScript | 📅 2026-02-11 - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec.
@@ -329,7 +329,7 @@ template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugi
 
 ## Other awesome resources
 
-**If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,881 | 🐛 105 | 📅 2026-08-21 list!**
+**If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 list!**
 
 ***
 

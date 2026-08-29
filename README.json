@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lit is a simple library for building fast, lightweight web components.",
+            "homepage": "https://lit.dev",
             "id": 95797174,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-25T18:36:25Z",
+            "open_issues": 719,
             "owner": "lit",
             "repo": "lit",
-            "stars": 21794
+            "stars": 21793,
+            "topics": [
+              "html-templates",
+              "lit",
+              "lit-element",
+              "lit-html"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -26,12 +36,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lit is a simple library for building fast, lightweight web components.",
+            "homepage": "https://lit.dev",
             "id": 95797174,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-25T18:36:25Z",
+            "open_issues": 719,
             "owner": "lit",
             "repo": "lit",
-            "stars": 21794
+            "stars": 21793,
+            "topics": [
+              "html-templates",
+              "lit",
+              "lit-element",
+              "lit-html"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         }
@@ -48,12 +68,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next generation frontend tooling. It's fast!",
+            "homepage": "http://vite.dev",
             "id": 257485422,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:47:39Z",
+            "open_issues": 771,
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82576
+            "stars": 82575,
+            "topics": [
+              "build-tool",
+              "dev-server",
+              "frontend",
+              "hmr",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -64,12 +95,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next generation frontend tooling. It's fast!",
+            "homepage": "http://vite.dev",
             "id": 257485422,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:47:39Z",
+            "open_issues": 771,
             "owner": "vitejs",
             "repo": "vite",
-            "stars": 82576
+            "stars": 82575,
+            "topics": [
+              "build-tool",
+              "dev-server",
+              "frontend",
+              "hmr",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -80,12 +122,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Welcome to the PWABuilder pwa-starter! Looking to build a new Progressive Web App and not sure where to get started? This is what you are looking for!",
+            "homepage": null,
             "id": 248865968,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-16T20:38:39Z",
+            "open_issues": 4,
             "owner": "pwa-builder",
             "repo": "pwa-starter",
-            "stars": 1334
+            "stars": 1334,
+            "topics": [
+              "lit",
+              "lit-element",
+              "pwa",
+              "pwabuilder"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -96,12 +148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample component project using LitElement with TypeScript",
+            "homepage": null,
             "id": 225749649,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-12-23T21:58:37Z",
+            "open_issues": 20,
             "owner": "lit",
             "repo": "lit-element-starter-ts",
-            "stars": 541
+            "stars": 541,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -112,12 +169,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Sample component project using LitElement, in JavaScript",
+            "homepage": null,
             "id": 225747461,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-08-05T19:54:23Z",
+            "open_issues": 2,
             "owner": "lit",
             "repo": "lit-element-starter-js",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -128,12 +190,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A template for building Progressive Web Applications using Lit and Vaadin Router.",
+            "homepage": "https://pwa-lit-template.mybluemix.net",
             "id": 263594455,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-07-18T22:27:05Z",
+            "open_issues": 6,
             "owner": "IBM",
             "repo": "pwa-lit-template",
-            "stars": 183
+            "stars": 183,
+            "topics": [
+              "lit",
+              "lit-element",
+              "lit-html",
+              "progressive-web-app",
+              "pwa",
+              "pwa-lit-template",
+              "typescript",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -144,12 +220,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vite + Lit + TS + SASS = Super easy!",
+            "homepage": null,
             "id": 363853545,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-04-19T22:45:53Z",
+            "open_issues": 0,
             "owner": "e111077",
             "repo": "vite-lit-element-ts-sass",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "lit",
+              "lit-element",
+              "lit-elements",
+              "lit-html",
+              "sass",
+              "typescript",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -160,12 +249,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple starter <hello-world /> web component written in typescript, using lit. Unit tested with jest and e2e tested with playwright.",
+            "homepage": "https://fernandopasik.com/hello-web-components/",
             "id": 245013892,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T23:30:49Z",
+            "open_issues": 4,
             "owner": "fernandopasik",
             "repo": "hello-web-components",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "hello-world",
+              "lit",
+              "lit-component",
+              "lit-element",
+              "lit-html",
+              "node-test-runner",
+              "playwright",
+              "starter",
+              "web-component",
+              "web-component-starter",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -176,12 +282,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get started with lit sass and ts real quick",
+            "homepage": null,
             "id": 363624599,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-10-11T16:23:37Z",
+            "open_issues": 0,
             "owner": "e111077",
             "repo": "lit-sass-ts-starter",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "lit",
+              "lit-element",
+              "lit-elements",
+              "lit-html",
+              "rollup",
+              "sass",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -192,12 +311,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starter template of multipage application on Lit build with Webpack",
+            "homepage": null,
             "id": 329940755,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-01T10:21:56Z",
+            "open_issues": 0,
             "owner": "andrewlevada",
             "repo": "webpack-lit-template",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -208,12 +332,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Template for how to setup lit using vite and tailwind.",
+            "homepage": null,
             "id": 852247967,
             "language": "CSS",
+            "license": null,
             "last_commit": "2025-10-18T10:12:13Z",
+            "open_issues": 0,
             "owner": "lloydrichards",
             "repo": "base_lit-with-tailwind",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "lit",
+              "tailwindcss",
+              "typescript",
+              "vite",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -224,12 +359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://intlayer-vite-lit-template.vercel.app",
             "id": 1190085212,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-07-22T17:57:17Z",
+            "open_issues": 0,
             "owner": "aymericzip",
             "repo": "intlayer-vite-lit-template",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -240,12 +380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Templates used by with \"npm create gracile@latest\" or via shallow cloning.",
+            "homepage": "https://gracile.js.org/",
             "id": 783484447,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-04-07T14:03:55Z",
+            "open_issues": 0,
             "owner": "gracile-web",
             "repo": "starter-projects",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -256,12 +401,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get started with lit sass and js real quick",
+            "homepage": null,
             "id": 363833260,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-10-11T16:27:01Z",
+            "open_issues": 0,
             "owner": "e111077",
             "repo": "lit-sass-js-starter",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "javascript",
+              "lit",
+              "lit-element",
+              "lit-elements",
+              "lit-html",
+              "rollup",
+              "sass"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         }
@@ -278,12 +436,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Example of how to embed a Lit web component into native platforms.",
+            "homepage": "https://rodydavis.github.io/lit-native/",
             "id": 377675539,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-23T00:46:39Z",
+            "open_issues": 0,
             "owner": "rodydavis",
             "repo": "lit-native",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "android",
+              "hybrid-app",
+              "ios",
+              "lit",
+              "macos",
+              "native",
+              "pwa",
+              "webview"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -294,12 +466,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Node editor built with canvas api, simple graph data structure and included transforms for scale, pan and move.",
+            "homepage": "https://rodydavis.github.io/lit-node-editor/",
             "id": 408650606,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-23T00:46:42Z",
+            "open_issues": 0,
             "owner": "rodydavis",
             "repo": "lit-node-editor",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "canvas",
+              "canvas2d",
+              "lit",
+              "node-editor"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -310,12 +492,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "3D Piano built with Lit, Three.js and Tone.js",
+            "homepage": "https://rodydavis.github.io/lit-3d-piano/",
             "id": 384333189,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-23T00:46:10Z",
+            "open_issues": 0,
             "owner": "rodydavis",
             "repo": "lit-3d-piano",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "lit",
+              "piano",
+              "threejs",
+              "tonejs"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -326,12 +518,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Minimal example for Lit, Vite, Typescript and RXDB",
+            "homepage": "https://rodydavis.github.io/vite-rxdb-lit/",
             "id": 383269002,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-23T00:47:05Z",
+            "open_issues": 0,
             "owner": "rodydavis",
             "repo": "vite-rxdb-lit",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "lit",
+              "rxdb",
+              "rxjs",
+              "typescript",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         }
@@ -348,12 +551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functional Web Components",
+            "homepage": null,
             "id": 136207188,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:39:51Z",
+            "open_issues": 8,
             "owner": "aggre",
             "repo": "ullr",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -364,12 +572,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A micro library for localizing custom elements.",
+            "homepage": null,
             "id": 406912599,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-22T20:56:45Z",
+            "open_issues": 1,
             "owner": "shoelace-style",
             "repo": "localize",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -380,12 +593,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Register your lit-elements as a pure functions.",
+            "homepage": "https://pure-lit.org",
             "id": 277165885,
             "language": "TypeScript",
+            "license": "ISC",
             "last_commit": "2026-08-28T00:10:14Z",
+            "open_issues": 0,
             "owner": "MatthiasKainer",
             "repo": "pure-lit",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "html",
+              "javascript",
+              "lit",
+              "lit-html",
+              "web-component",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         }
@@ -402,12 +627,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material Design Web Components",
+            "homepage": "https://material-web.dev",
             "id": 127049550,
             "language": "SCSS",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-29T01:16:49Z",
+            "open_issues": 181,
             "owner": "material-components",
             "repo": "material-web",
-            "stars": 11210
+            "stars": 11210,
+            "topics": [
+              "component-",
+              "design-system",
+              "lit",
+              "lit-element",
+              "lit-html",
+              "material",
+              "material-design",
+              "material-you",
+              "material3",
+              "web",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -418,12 +660,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fundamental white label web component features for your design system.",
+            "homepage": "https://lion.js.org",
             "id": 180852834,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T18:09:19Z",
+            "open_issues": 188,
             "owner": "ing-bank",
             "repo": "lion",
-            "stars": 1960
+            "stars": 1960,
+            "topics": [
+              "hacktoberfest",
+              "javascript",
+              "lion",
+              "lit-html",
+              "modern-web",
+              "open-wc",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -434,12 +689,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.",
+            "homepage": "https://ui5.github.io/webcomponents/",
             "id": 167405382,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-29T00:26:41Z",
+            "open_issues": 226,
             "owner": "UI5",
             "repo": "webcomponents",
-            "stars": 1771
+            "stars": 1771,
+            "topics": [
+              "open-source",
+              "ui5",
+              "ui5-webcomponents",
+              "web-component",
+              "webcomponent"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -450,12 +716,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spectrum Web Components",
+            "homepage": "https://opensource.adobe.com/spectrum-web-components/",
             "id": 158297197,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:50:22Z",
+            "open_issues": 233,
             "owner": "adobe",
             "repo": "spectrum-web-components",
-            "stars": 1535
+            "stars": 1535,
+            "topics": [
+              "adobe",
+              "spectrum",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -466,12 +741,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build better with Web Awesome, the open source library of web components from Font Awesome. Upgrade to Pro and ship websites faster!",
+            "homepage": "https://webawesome.com",
             "id": 685127633,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T17:10:41Z",
+            "open_issues": 43,
             "owner": "shoelace-style",
             "repo": "webawesome",
-            "stars": 1300
+            "stars": 1300,
+            "topics": [
+              "designsystems",
+              "opensource",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -482,12 +766,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of high-quality standards based web components for enterprise web applications. Part of Vaadin 20+",
+            "homepage": "https://vaadin.com/docs/latest/components",
             "id": 324593493,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-28T19:31:02Z",
+            "open_issues": 924,
             "owner": "vaadin",
             "repo": "web-components",
-            "stars": 581
+            "stars": 581,
+            "topics": [
+              "custom-elements",
+              "design-system",
+              "design-systems",
+              "ui-components",
+              "ui-kit",
+              "ui-library",
+              "vaadin",
+              "web-components",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -498,12 +797,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Carbon Design System variant on top of Web Components",
+            "homepage": "https://web-components.carbondesignsystem.com/",
             "id": 186906621,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-08T16:19:08Z",
+            "open_issues": 5,
             "owner": "carbon-design-system",
             "repo": "carbon-web-components",
-            "stars": 474
+            "stars": 474,
+            "topics": [
+              "carbon-design-system",
+              "community",
+              "component-library",
+              "design-system",
+              "hacktoberfest",
+              "ibm",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -514,12 +826,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "User Interface Component Library based on LitElement / lit-html",
+            "homepage": "https://www.kor-ui.com",
             "id": 223993090,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-06T08:00:49Z",
+            "open_issues": 19,
             "owner": "kor-ui",
             "repo": "kor",
-            "stars": 290
+            "stars": 290,
+            "topics": [
+              "design-system",
+              "kor",
+              "lit-element",
+              "lit-html",
+              "litelement",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -530,12 +854,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Momentum UI is a collection of UI libraries for implementing Momentum Design into web applications and websites.",
+            "homepage": null,
             "id": 164343086,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:55:58Z",
+            "open_issues": 50,
             "owner": "momentum-design",
             "repo": "momentum-ui",
-            "stars": 212
+            "stars": 212,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -546,12 +875,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Clarity is a scalable, accessible, customizable, open-source design system built with web components. Works with any JavaScript framework, created for enterprises, and designed to be inclusive.",
+            "homepage": "https://clarity.design",
             "id": 470654492,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-02T11:56:52Z",
+            "open_issues": 54,
             "owner": "vmware-clarity",
             "repo": "core",
-            "stars": 184
+            "stars": 184,
+            "topics": [
+              "a11y",
+              "angular",
+              "clarity",
+              "design-system",
+              "javascript",
+              "react",
+              "ui-components",
+              "vue",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -562,12 +906,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Red Hat's Design System",
+            "homepage": "https://ux.redhat.com",
             "id": 289053177,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:10:16Z",
+            "open_issues": 196,
             "owner": "RedHat-UX",
             "repo": "red-hat-design-system",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "design-system",
+              "design-systems",
+              "hacktoberfest",
+              "redhat",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -578,12 +933,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tooling infrastructure for modern web component development.",
+            "homepage": "https://outline.phase2tech.com",
             "id": 379637295,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-11T15:46:08Z",
+            "open_issues": 21,
             "owner": "phase2",
             "repo": "outline",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "components",
+              "components-library",
+              "design-system",
+              "hacktoberfest",
+              "javascript",
+              "lit",
+              "lit2",
+              "outline",
+              "storybook",
+              "tailwindcss",
+              "typescript",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -594,12 +967,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSTOR's design system",
+            "homepage": "https://pharos.jstor.org",
             "id": 364246649,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:17:16Z",
+            "open_issues": 73,
             "owner": "ithaka",
             "repo": "pharos",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "ithaka-owner-pharos",
+              "jstor",
+              "lit",
+              "lit-element",
+              "lit-html",
+              "pharos",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -610,12 +996,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AXA CH UI component library. Please share, comment, create issues and work with us!",
+            "homepage": "https://axa-ch-webhub-cloud.github.io/plib-feature/develop",
             "id": 112588368,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-12-04T13:54:22Z",
+            "open_issues": 27,
             "owner": "axa-ch-webhub-cloud",
             "repo": "pattern-library",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "custom-elements",
+              "lerna",
+              "lit-element",
+              "lit-html",
+              "polyfills",
+              "storybook",
+              "styleguide",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -626,12 +1026,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of accessible, free, open-source web components for building Brightspace applications.",
+            "homepage": null,
             "id": 174205995,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:47:50Z",
+            "open_issues": 47,
             "owner": "BrightspaceUI",
             "repo": "core",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "lit-element",
+              "ui",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         }
@@ -648,12 +1057,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.",
+            "homepage": "https://wiredjs.com",
             "id": 101609772,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-10-07T20:59:18Z",
+            "open_issues": 36,
             "owner": "rough-stuff",
             "repo": "wired-elements",
-            "stars": 10829
+            "stars": 10829,
+            "topics": [
+              "lit-element",
+              "lit-html",
+              "prototyping",
+              "web-components",
+              "webcomponents",
+              "wireframe",
+              "wireframes"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -664,12 +1086,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UI components and hooks for building video/audio players on the web. Robust, customizable, and accessible. Modern alternative to JW Player and Video.js.",
+            "homepage": "https://vidstack.io",
             "id": 332906349,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T18:57:02Z",
+            "open_issues": 155,
             "owner": "vidstack",
             "repo": "player",
-            "stars": 3667
+            "stars": 3667,
+            "topics": [
+              "accessibility",
+              "analytics",
+              "audio",
+              "hls",
+              "html",
+              "javascript",
+              "media",
+              "player",
+              "react",
+              "solid-js",
+              "svelte",
+              "typescript",
+              "ui",
+              "video",
+              "vimeo",
+              "vue",
+              "web-components",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -680,12 +1126,34 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Authentication Providers and UI components for Microsoft Graph 🦒",
+            "homepage": "https://docs.microsoft.com/graph/toolkit/overview",
             "id": 173193252,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:46:40Z",
+            "open_issues": 186,
             "owner": "microsoftgraph",
             "repo": "microsoft-graph-toolkit",
-            "stars": 1071
+            "stars": 1071,
+            "topics": [
+              "devxeng",
+              "hacktoberfest",
+              "mgt",
+              "mgt-react",
+              "microsoft-graph",
+              "microsoft-graph-toolkit",
+              "microsoft-teams",
+              "msal",
+              "people-picker",
+              "person-card",
+              "react",
+              "sharepoint",
+              "spfx",
+              "tasks",
+              "todo",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -696,12 +1164,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AgnosticUI Local (v2) is a CLI-based UI component library that copies components directly into your project. Works with AI tools, agent-driven UIs, and prompt-ready workflows.",
+            "homepage": "https://agnosticui.com",
             "id": 293631918,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-30T19:42:00Z",
+            "open_issues": 1,
             "owner": "AgnosticUI",
             "repo": "agnosticui",
-            "stars": 825
+            "stars": 825,
+            "topics": [
+              "accessibility",
+              "agent-skills",
+              "ai-agents",
+              "context-engineering",
+              "css",
+              "generative-ui",
+              "javascipt",
+              "lit",
+              "prompt-engineering",
+              "reactjs",
+              "svelte",
+              "ui-components",
+              "vue",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -712,12 +1200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source tools to allow working with ESP devices in the browser",
+            "homepage": "https://esphome.github.io/esp-web-tools/",
             "id": 371410731,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T11:57:36Z",
+            "open_issues": 60,
             "owner": "esphome",
             "repo": "esp-web-tools",
-            "stars": 681
+            "stars": 681,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -728,12 +1221,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serverless coding environments for the web.",
+            "homepage": null,
             "id": 186506870,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-02T22:51:25Z",
+            "open_issues": 95,
             "owner": "google",
             "repo": "playground-elements",
-            "stars": 650
+            "stars": 650,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -744,12 +1242,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀🌛 Use the Launch Platform 👩‍🚀👨‍🚀",
+            "homepage": "https://apolloelements.dev",
             "id": 135019046,
             "language": "TypeScript",
+            "license": "ISC",
             "last_commit": "2026-08-07T03:08:03Z",
+            "open_issues": 4,
             "owner": "apollo-elements",
             "repo": "apollo-elements",
-            "stars": 423
+            "stars": 423,
+            "topics": [
+              "apollo-elements",
+              "gluon",
+              "graphql",
+              "hacktoberfest",
+              "hybrids",
+              "lit-element",
+              "lit-html",
+              "mixins",
+              "polymer",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -760,12 +1274,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PatternFly Elements. A set of community-created web components based on PatternFly design.",
+            "homepage": "https://patternflyelements.org/",
             "id": 116304230,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T14:24:08Z",
+            "open_issues": 170,
             "owner": "patternfly",
             "repo": "patternfly-elements",
-            "stars": 393
+            "stars": 393,
+            "topics": [
+              "design-system",
+              "hacktoberfest",
+              "html",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -776,12 +1300,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monorepo of webcomponents and associated microservice apis",
+            "homepage": "https://www.npmjs.com/org/haxtheweb",
             "id": 150275195,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T20:32:27Z",
+            "open_issues": 0,
             "owner": "haxtheweb",
             "repo": "webcomponents",
-            "stars": 273
+            "stars": 273,
+            "topics": [
+              "hax",
+              "haxcms",
+              "htmlelement",
+              "javascript",
+              "litelement",
+              "monorepo",
+              "polymer",
+              "webcomponents",
+              "yarn"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -792,12 +1331,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web Components for Electronics and IoT Parts",
+            "homepage": "https://elements.wokwi.com/",
             "id": 226412003,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-06T05:50:06Z",
+            "open_issues": 26,
             "owner": "wokwi",
             "repo": "wokwi-elements",
-            "stars": 260
+            "stars": 260,
+            "topics": [
+              "arduino",
+              "electronics",
+              "lit-element",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -808,12 +1357,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of Web Components by Clever Cloud",
+            "homepage": "https://www.clever.cloud/developers/clever-components/",
             "id": 177629365,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:25:19Z",
+            "open_issues": 329,
             "owner": "CleverCloud",
             "repo": "clever-components",
-            "stars": 240
+            "stars": 240,
+            "topics": [
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -824,12 +1380,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material 3 Expressive Web Components",
+            "homepage": "https://matraic.github.io/m3e/",
             "id": 1061021961,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-29T03:05:23Z",
+            "open_issues": 1,
             "owner": "matraic",
             "repo": "m3e",
-            "stars": 200
+            "stars": 200,
+            "topics": [
+              "lit",
+              "material-3-expressive",
+              "material-design",
+              "material-you",
+              "material3",
+              "web",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -840,12 +1409,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Components for interactive scientific writing, reactive documents and explorable explanations.",
+            "homepage": "https://old.curvenote.dev",
             "id": 96701162,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-05-14T21:50:42Z",
+            "open_issues": 20,
             "owner": "curvenote",
             "repo": "article",
-            "stars": 199
+            "stars": 199,
+            "topics": [
+              "explorable-explanations",
+              "exploratory-data-visualizations",
+              "interactive-storytelling",
+              "interactive-visualizations",
+              "katex",
+              "reactive-documents",
+              "scientific-writing",
+              "tangle",
+              "webcomponents",
+              "writing"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -856,12 +1441,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ignite UI for Web Components is a complete library of UI components, giving you the ability to build modern web applications using encapsulation and the concept of reusable components in a dependency-free approach.",
+            "homepage": "https://www.infragistics.com/products/ignite-ui-web-components",
             "id": 366715251,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T21:57:36Z",
+            "open_issues": 37,
             "owner": "IgniteUI",
             "repo": "igniteui-webcomponents",
-            "stars": 169
+            "stars": 169,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -872,12 +1462,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Umbraco UI Components",
+            "homepage": null,
             "id": 315865767,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T07:38:22Z",
+            "open_issues": 58,
             "owner": "umbraco",
             "repo": "Umbraco.UI",
-            "stars": 151
+            "stars": 151,
+            "topics": [
+              "components",
+              "hacktoberfest",
+              "ui",
+              "ui-components",
+              "umbraco",
+              "umbraco-cms"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -888,12 +1490,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "‹B› Web components, classes, and utilities for creating single-page PWAs – built with Lit by Blackstone Publishing",
+            "homepage": "https://bui.js.org",
             "id": 204566076,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-06-30T20:52:55Z",
+            "open_issues": 17,
             "owner": "kjantzer",
             "repo": "bui",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "buildwithlit",
+              "custom-elements",
+              "design-system",
+              "javascript",
+              "lit",
+              "lit-element",
+              "lit-html",
+              "lit-html-element",
+              "ui-components",
+              "ui-framework",
+              "ui-library",
+              "web-components",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -904,12 +1525,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom elements catalog for all kind of projects and frameworks.",
+            "homepage": "https://dile-components.com",
             "id": 258028021,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T17:45:51Z",
+            "open_issues": 3,
             "owner": "Polydile",
             "repo": "dile-components",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "agent-skills",
+              "app",
+              "app-components",
+              "catalog",
+              "components",
+              "crud",
+              "custom",
+              "elements",
+              "lit",
+              "ui",
+              "ui-components",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -920,12 +1559,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom Element Wrapper for Stripe.js v3 Elements",
+            "homepage": "https://stripe-elements.netlify.app/",
             "id": 93164340,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-12-06T11:40:38Z",
+            "open_issues": 17,
             "owner": "bennypowers",
             "repo": "stripe-elements",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "custom-elements",
+              "customelements",
+              "hacktoberfest",
+              "lit-element",
+              "stripe",
+              "stripe-element",
+              "stripe-form",
+              "web-component",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -936,12 +1590,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web Components Library for Medblocks Ecosystem ",
+            "homepage": "https://www.npmjs.com/package/medblocks-ui",
             "id": 324351856,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-29T11:46:19Z",
+            "open_issues": 11,
             "owner": "medblocks",
             "repo": "medblocks-ui",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -952,12 +1611,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web components to generate simple charts representing trends",
+            "homepage": "https://weblogin.github.io/trendchart-elements/demo/",
             "id": 632862234,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-08T21:01:36Z",
+            "open_issues": 0,
             "owner": "WebLogin",
             "repo": "trendchart-elements",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "chart",
+              "lit",
+              "responsive",
+              "trend",
+              "web-component"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -968,12 +1638,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One platform component library.",
+            "homepage": "https://1-platform.github.io/op-components/",
             "id": 244867223,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T16:01:13Z",
+            "open_issues": 19,
             "owner": "1-Platform",
             "repo": "op-components",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "lit-element",
+              "lit-html",
+              "redhat",
+              "web",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -984,12 +1665,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗃 A schema for mutation testing results with the web components to visualise it 📊",
+            "homepage": null,
             "id": 139985245,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-29T02:53:37Z",
+            "open_issues": 45,
             "owner": "stryker-mutator",
             "repo": "mutation-testing-elements",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "hacktoberfest",
+              "mutation-testing",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1000,12 +1690,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://storybook.leavitt.com",
             "id": 145903688,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:04:13Z",
+            "open_issues": 2,
             "owner": "LeavittSoftware",
             "repo": "titanium-elements",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "hacktoberfest",
+              "lit-element",
+              "lit-html",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1016,12 +1716,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web components used by TEI Publisher and apps generated by it",
+            "homepage": "https://cdn.tei-publisher.com/",
             "id": 267102514,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T07:08:59Z",
+            "open_issues": 61,
             "owner": "eeditiones",
             "repo": "tei-publisher-components",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "tei-publisher",
+              "tei-xml",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1032,12 +1741,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "repository for Fusion web components",
+            "homepage": null,
             "id": 351007142,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-28T09:30:30Z",
+            "open_issues": 32,
             "owner": "equinor",
             "repo": "fusion-web-components",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1048,12 +1762,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enterprise ready set of web components which work best with Eclipse Furo. Comes with minimal footprint. Based on web standards. Future proved. Compliant with any technology of choice.",
+            "homepage": "https://web-components.furo.pro/",
             "id": 383184037,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-17T08:02:09Z",
+            "open_issues": 0,
             "owner": "eclipse-furo",
             "repo": "eclipsefuro-web",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "custom-elements",
+              "furo",
+              "web",
+              "webcomponents",
+              "webstack"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1064,12 +1789,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swagger UI for MCP servers — explore, test, and visualize any Model Context Protocol server with rich components (charts, tables, pipelines). No LLM required.",
+            "homepage": "https://burnish-demo.fly.dev",
             "id": 1194871187,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-04T09:44:16Z",
+            "open_issues": 9,
             "owner": "danfking",
             "repo": "burnish",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "cli",
+              "developer-tools",
+              "lit",
+              "mcp",
+              "mcp-client",
+              "model-context-protocol",
+              "model-context-protocol-client",
+              "typescript",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1080,12 +1820,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://webmarkets-web-components.web.app/",
             "id": 385726728,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-08T17:43:34Z",
+            "open_issues": 0,
             "owner": "Webmarkets",
             "repo": "wm-web-components",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "components",
+              "web-components",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1096,12 +1845,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 737904986,
             "language": "HTML",
+            "license": null,
             "last_commit": "2024-01-01T23:33:38Z",
+            "open_issues": 0,
             "owner": "bendera",
             "repo": "vscode-webview-elements",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         }
@@ -1118,12 +1872,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily display interactive 3D models on the web and in AR! ",
+            "homepage": "https://modelviewer.dev",
             "id": 153651476,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-07T21:23:39Z",
+            "open_issues": 117,
             "owner": "google",
             "repo": "model-viewer",
-            "stars": 8218
+            "stars": 8219,
+            "topics": [
+              "3d",
+              "3d-models",
+              "augmented-reality",
+              "glb",
+              "gltf",
+              "magic-leap",
+              "model-viewer",
+              "three-js",
+              "webcomponents",
+              "webxr"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1134,12 +1904,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A customizable, modular, responsive, lightbox gallery plugin. ",
+            "homepage": "https://www.lightgalleryjs.com/",
             "id": 17293434,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-07T09:02:04Z",
+            "open_issues": 64,
             "owner": "sachinchoolur",
             "repo": "lightGallery",
-            "stars": 7051
+            "stars": 7051,
+            "topics": [
+              "angular",
+              "angular-gallery",
+              "css-animations",
+              "html5-video",
+              "image-gallery",
+              "lightbox",
+              "lightbox-gallery-plugin",
+              "lit-element",
+              "react",
+              "react-gallery",
+              "thumbnails",
+              "video",
+              "video-gallery",
+              "vimeo",
+              "vue",
+              "vue-gallery",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1150,12 +1943,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧩 Content editing tech stack for the web - BlockSuite is a toolkit for building editors and collaborative applications.",
+            "homepage": "https://blocksuite.io",
             "id": 535103658,
             "language": "TypeScript",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-26T18:15:59Z",
+            "open_issues": 195,
             "owner": "toeverything",
             "repo": "blocksuite",
-            "stars": 5994
+            "stars": 5994,
+            "topics": [
+              "block",
+              "block-editor",
+              "collaboration",
+              "components",
+              "components-library",
+              "crdt",
+              "editor",
+              "local-first",
+              "notion-editor",
+              "rich-text-editor",
+              "state-management",
+              "webcomponents",
+              "wysiwyg",
+              "wysiwyg-editor",
+              "yjs"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1166,12 +1980,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RapiDoc -WebComponent for OpenAPI Spec",
+            "homepage": "https://rapidocweb.com",
             "id": 165951750,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-11T08:37:36Z",
+            "open_issues": 138,
             "owner": "rapi-doc",
             "repo": "RapiDoc",
-            "stars": 1899
+            "stars": 1899,
+            "topics": [
+              "api",
+              "custom-element",
+              "documentation",
+              "open-api",
+              "openapi3",
+              "rapidoc",
+              "rest",
+              "swagger",
+              "swagger-ui"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1182,12 +2011,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lottie viewer/player as an easy to use web component! https://lottiefiles.com/web-player",
+            "homepage": null,
             "id": 185189101,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-08T05:33:09Z",
+            "open_issues": 77,
             "owner": "LottieFiles",
             "repo": "lottie-player",
-            "stars": 1656
+            "stars": 1656,
+            "topics": [
+              "bodymovin",
+              "lit-element",
+              "lottie",
+              "lottie-web",
+              "web-component"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1198,12 +2038,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Structure-aware skeleton loader. One Web Component, every framework.",
+            "homepage": "https://aejkatappaja.github.io/phantom-ui/demo",
             "id": 1196315863,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-31T23:45:57Z",
+            "open_issues": 1,
             "owner": "Aejkatappaja",
             "repo": "phantom-ui",
-            "stars": 789
+            "stars": 789,
+            "topics": [
+              "angular",
+              "custom-element",
+              "htmx",
+              "lit",
+              "loading",
+              "loading-animation",
+              "loading-animations",
+              "placeholder",
+              "qwik",
+              "react",
+              "shimmer",
+              "skeleton",
+              "skeleton-loader",
+              "skeleton-screen",
+              "solidjs",
+              "svelte",
+              "typescript",
+              "vue",
+              "web-components",
+              "webcomponent"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1214,12 +2080,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "API documentation and live playground for Web Components. Based on Custom Elements Manifest format",
+            "homepage": "https://api-viewer.open-wc.org",
             "id": 216638621,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T07:06:41Z",
+            "open_issues": 22,
             "owner": "open-wc",
             "repo": "api-viewer-element",
-            "stars": 283
+            "stars": 283,
+            "topics": [
+              "custom-elements",
+              "lit-element",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1230,12 +2105,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web Component to visualize JSON data in a tree view",
+            "homepage": "https://alenaksu.github.io/json-viewer/",
             "id": 200504440,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-03T14:48:41Z",
+            "open_issues": 8,
             "owner": "alenaksu",
             "repo": "json-viewer",
-            "stars": 242
+            "stars": 242,
+            "topics": [
+              "json",
+              "json-tree",
+              "json-viewer",
+              "jsonviewer",
+              "webcomponent"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1246,12 +2132,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The multi-framework JavaScript library for responsive images.",
+            "homepage": "https://responsive-image.dev",
             "id": 72667977,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T20:39:00Z",
+            "open_issues": 17,
             "owner": "simonihmig",
             "repo": "responsive-image",
-            "stars": 210
+            "stars": 210,
+            "topics": [
+              "ember",
+              "image-cdn",
+              "image-optimization",
+              "image-processing",
+              "lit",
+              "responsive",
+              "responsive-images",
+              "sharp",
+              "solidjs",
+              "svelte",
+              "vite",
+              "webcomponents",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1262,12 +2167,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Datepicker element built with Google's lit and Material Design 2021",
+            "homepage": "https://motss-app-datepicker.mintlify.app",
             "id": 41029883,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-08T13:57:02Z",
+            "open_issues": 18,
             "owner": "motss",
             "repo": "app-datepicker",
-            "stars": 177
+            "stars": 177,
+            "topics": [
+              "date-picker",
+              "datepicker",
+              "datepicker-element",
+              "intl",
+              "lit-element",
+              "lit-html",
+              "polymer",
+              "web-components",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1278,12 +2198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 206386040,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-27T05:23:45Z",
+            "open_issues": 5,
             "owner": "thomasloven",
             "repo": "round-slider",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1294,12 +2219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lit-datatable is a material design implementation of a data table, powered by lit-element.",
+            "homepage": null,
             "id": 193679116,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-07T05:12:21Z",
+            "open_issues": 15,
             "owner": "DoubleTrade",
             "repo": "lit-datatable",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1310,12 +2240,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple customisable lit-element burger button",
+            "homepage": "https://boguz.github.io/burgton-button-docs/",
             "id": 252509167,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-04T12:02:08Z",
+            "open_issues": 14,
             "owner": "boguz",
             "repo": "burgton-button",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1326,12 +2261,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and easy image cropping web component built with Lit",
+            "homepage": "https://lit-image-cropper.vercel.app",
             "id": 849903325,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-09-11T01:56:33Z",
+            "open_issues": 0,
             "owner": "andy-austin",
             "repo": "lit-image-cropper",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1342,12 +2282,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A light spiritual succesor to neon-animated-pages using only css animations",
+            "homepage": "https://alangdm.github.io/helium-animated-pages/",
             "id": 133177957,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T13:49:21Z",
+            "open_issues": 17,
             "owner": "alangdm",
             "repo": "helium-animated-pages",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "animations",
+              "css",
+              "css-animations",
+              "html",
+              "javascript",
+              "js",
+              "shadow-dom",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1358,12 +2312,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A webcomponent to render a QR Code",
+            "homepage": null,
             "id": 71563988,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-05T06:52:03Z",
+            "open_issues": 9,
             "owner": "LostInBrittany",
             "repo": "granite-qrcode-generator",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1374,12 +2333,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom Element that Shows a CodeSandbox demo when you click on it.",
+            "homepage": null,
             "id": 235185727,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-10-05T02:57:01Z",
+            "open_issues": 5,
             "owner": "bennypowers",
             "repo": "codesandbox-button",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         }
@@ -1398,12 +2362,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The high-performance import map generator for the modern web",
+                "homepage": "https://bennypowers.dev/mappa",
                 "id": 1133698121,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-22T07:16:31Z",
+                "open_issues": 1,
                 "owner": "bennypowers",
                 "repo": "mappa",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "golang",
+                  "import-maps"
+                ]
               },
               "first_seen": "2026-08-28T05:29:44.111Z"
             }
@@ -1421,12 +2393,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Syntax highlighting for html template literals in javascript (as in lit-html and polymer 3)",
+                "homepage": null,
                 "id": 125744234,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2024-09-13T20:55:38Z",
+                "open_issues": 3,
                 "owner": "jonsmithers",
                 "repo": "vim-html-template-literals",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "javascript",
+                  "js",
+                  "lit-element",
+                  "lit-html",
+                  "litelement",
+                  "polymer-3",
+                  "syntax-highlighting",
+                  "tagged-template-literals",
+                  "template-literals",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T05:29:44.111Z"
             }
@@ -1444,12 +2432,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web Component DevTools is a Browser Extension enhancing the development experience of Web Component developers",
+                "homepage": "https://matsuuu.github.io/web-component-devtools/",
                 "id": 370244431,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-12-08T14:33:00Z",
+                "open_issues": 20,
                 "owner": "Matsuuu",
                 "repo": "web-component-devtools",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "chrome",
+                  "custom-elements",
+                  "extension",
+                  "hacktoberfest",
+                  "javascript",
+                  "lit",
+                  "typescript",
+                  "web-components",
+                  "webcomponents"
+                ]
               },
               "first_seen": "2026-08-28T05:29:44.111Z"
             },
@@ -1460,12 +2463,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The standards-based Web Components multitool. Generate Custom Elements Manifests, Dev Server, LSP, and MCP for your app or design system",
+                "homepage": "https://bennypowers.dev/cem/",
                 "id": 991378465,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-10T11:04:19Z",
+                "open_issues": 10,
                 "owner": "bennypowers",
                 "repo": "cem",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "custom-elements",
+                  "custom-elements-manifest",
+                  "go",
+                  "golang",
+                  "language-server-protocol",
+                  "static-analysis",
+                  "typescript",
+                  "web-components"
+                ]
               },
               "first_seen": "2026-08-28T05:29:44.111Z"
             },
@@ -1476,12 +2493,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Design Tokens Multitool. CLI and go library; LSP and MCP; Generator and converter",
+                "homepage": "https://bennypowers.dev/asimonim",
                 "id": 1137843042,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-22T07:16:30Z",
+                "open_issues": 3,
                 "owner": "bennypowers",
                 "repo": "asimonim",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "claude-code-plugin",
+                  "cli",
+                  "design-systems",
+                  "design-tokens",
+                  "go",
+                  "golang",
+                  "language-server-protocol",
+                  "neovim-plugin",
+                  "vscode-extension",
+                  "zed-extension"
+                ]
               },
               "first_seen": "2026-08-28T05:29:44.111Z"
             }
@@ -1503,12 +2536,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby to JavaScript conversion",
+            "homepage": "https://www.ruby2js.com/",
             "id": 13989385,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-06-18T22:56:39Z",
+            "open_issues": 26,
             "owner": "ruby2js",
             "repo": "ruby2js",
-            "stars": 491
+            "stars": 491,
+            "topics": [
+              "javascript",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1519,12 +2560,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write Fable Elmish apps with Lit",
+            "homepage": "https://fable.io/Fable.Lit/",
             "id": 398472373,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2023-02-12T15:16:15Z",
+            "open_issues": 16,
             "owner": "fable-compiler",
             "repo": "Fable.Lit",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "elmish",
+              "fable",
+              "fsharp",
+              "lit"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1535,12 +2586,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple pipeline for SSR + hydration of Lit components.",
+            "homepage": null,
             "id": 357627192,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-09-16T02:12:02Z",
+            "open_issues": 0,
             "owner": "bridgetownrb",
             "repo": "bridgetown-lit-renderer",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "bridgetown",
+              "bridgetown-plugin",
+              "lit-element",
+              "ssr"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         }
@@ -1557,12 +2618,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.",
+            "homepage": null,
             "id": 142916901,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-01T21:36:52Z",
+            "open_issues": 49,
             "owner": "developit",
             "repo": "htm",
-            "stars": 9043
+            "stars": 9043,
+            "topics": [
+              "babel",
+              "babel-plugin",
+              "jsx",
+              "tagged-template",
+              "virtual-dom"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1573,12 +2645,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extraordinary JavaScript UI framework with unique declarative and functional architecture",
+            "homepage": "https://hybrids.js.org",
             "id": 75767776,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-07T09:41:46Z",
+            "open_issues": 8,
             "owner": "hybridsjs",
             "repo": "hybrids",
-            "stars": 3174
+            "stars": 3174,
+            "topics": [
+              "framework",
+              "localization",
+              "router",
+              "state-management",
+              "webcomponents"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         },
@@ -1589,12 +2672,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inspired by lit-html but for Node.js",
+            "homepage": "https://npm.im/lit-ntml",
             "id": 109403404,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-06-06T02:36:58Z",
+            "open_issues": 4,
             "owner": "motss",
             "repo": "lit-ntml",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "html",
+              "html-fragment",
+              "lit-html",
+              "lit-ntml",
+              "ntml",
+              "parse-html",
+              "parse5",
+              "tagged-template-literals",
+              "templating",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:29:44.111Z"
         }
@@ -1603,15 +2702,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:12:23.972Z",
+    "last_updated": "2026-08-29T04:31:13.553Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Lit resources.",
+      "homepage": null,
       "id": 135072666,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-18T05:58:58Z",
+      "open_issues": 7,
       "owner": "web-padawan",
       "repo": "awesome-lit",
-      "stars": 1732
+      "stars": 1732,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "lit-html"
+      ]
     },
     "original_repository_sha": "ecc9ad6097e135c963d4bf1f83beba412d50996a",
     "enhanced_repository": "enhansome/enhansome-lit",
