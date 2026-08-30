@@ -2,7 +2,7 @@
 
 > A curated list of awesome Lit resources.
 
-[Lit](https://github.com/lit/lit) ⭐ 21,795 | 🐛 720 | 🌐 TypeScript | 📅 2026-07-25 — a simple library for building fast, lightweight web components.
+[Lit](https://github.com/lit/lit) ⭐ 21,797 | 🐛 721 | 🌐 TypeScript | 📅 2026-07-25 — a simple library for building fast, lightweight web components.
 
 At Lit's core is a boilerplate-killing component base class that provides reactive state, scoped styles, and a declarative template system that's tiny, fast and expressive.
 
@@ -44,8 +44,8 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Community
 
-* [GitHub](https://github.com/lit/lit) ⭐ 21,795 | 🐛 720 | 🌐 TypeScript | 📅 2026-07-25
-* [GitHub Discussions](https://github.com/lit/lit/discussions) ⭐ 21,795 | 🐛 720 | 🌐 TypeScript | 📅 2026-07-25
+* [GitHub](https://github.com/lit/lit) ⭐ 21,797 | 🐛 721 | 🌐 TypeScript | 📅 2026-07-25
+* [GitHub Discussions](https://github.com/lit/lit/discussions) ⭐ 21,797 | 🐛 721 | 🌐 TypeScript | 📅 2026-07-25
 * [Discord](https://discord.com/invite/buildWithLit)
 * [Twitter](https://twitter.com/buildWithLit)
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/lit+or+lit-html+or+lit-element)
@@ -59,9 +59,9 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Starter Templates
 
-* [Vite Lit Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) ⭐ 82,592 | 🐛 770 | 🌐 TypeScript | 📅 2026-08-29 - Lit based template preset for Vite.
-* [Vite Lit TS Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) ⭐ 82,592 | 🐛 770 | 🌐 TypeScript | 📅 2026-08-29 - Lit and TypeScript based template preset for Vite.
-* [pwa-starter](https://github.com/pwa-builder/pwa-starter) ⭐ 1,335 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-16 - LitElement edition of the PWABuilder pwa-starter.
+* [Vite Lit Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) ⭐ 82,609 | 🐛 772 | 🌐 TypeScript | 📅 2026-08-30 - Lit based template preset for Vite.
+* [Vite Lit TS Starter](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) ⭐ 82,609 | 🐛 772 | 🌐 TypeScript | 📅 2026-08-30 - Lit and TypeScript based template preset for Vite.
+* [pwa-starter](https://github.com/pwa-builder/pwa-starter) ⭐ 1,334 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-16 - LitElement edition of the PWABuilder pwa-starter.
 * [LitElement TypeScript starter](https://github.com/lit/lit-element-starter-ts) ⭐ 541 | 🐛 20 | 🌐 JavaScript | 📅 2025-12-23 - Sample component using LitElement with TypeScript.
 * [LitElement JavaScript starter](https://github.com/lit/lit-element-starter-js) ⚠️ Archived - Sample component using LitElement with JavaScript.
 * [pwa-lit-template](https://github.com/IBM/pwa-lit-template) ⚠️ Archived - Build Progressive Web Applications following the modern web standards.
@@ -145,11 +145,11 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Design Systems
 
-* [Material Web Components](https://github.com/material-components/material-web) ⭐ 11,212 | 🐛 181 | 🌐 SCSS | 📅 2026-08-29 - Material Design implemented as Web Components.
+* [Material Web Components](https://github.com/material-components/material-web) ⭐ 11,216 | 🐛 181 | 🌐 SCSS | 📅 2026-08-29 - Material Design implemented as Web Components.
 * [Lion](https://github.com/ing-bank/lion) ⭐ 1,960 | 🐛 188 | 🌐 JavaScript | 📅 2026-08-20 - Highly performant, accessible and flexible Web Components.
-* [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) ⭐ 1,770 | 🐛 225 | 🌐 TypeScript | 📅 2026-08-29 - Enterprise-flavored sugar on top of native APIs!
+* [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) ⭐ 1,770 | 🐛 226 | 🌐 TypeScript | 📅 2026-08-30 - Enterprise-flavored sugar on top of native APIs!
 * [Spectrum Web Components](https://github.com/adobe/spectrum-web-components) ⭐ 1,535 | 🐛 233 | 🌐 TypeScript | 📅 2026-08-28 - Adobe Spectrum design language implementation built with LitElement.
-* [Web Awesome](https://github.com/shoelace-style/webawesome) ⭐ 1,300 | 🐛 43 | 🌐 TypeScript | 📅 2026-08-27 - The open source library of web components from Font Awesome
+* [Web Awesome](https://github.com/shoelace-style/webawesome) ⭐ 1,301 | 🐛 43 | 🌐 TypeScript | 📅 2026-08-27 - The open source library of web components from Font Awesome
 * [Vaadin web components](https://github.com/vaadin/web-components) ⭐ 581 | 🐛 924 | 🌐 JavaScript | 📅 2026-08-28 - A set of high-quality web components for business web applications.
 * [Carbon Web Components](https://github.com/carbon-design-system/carbon-web-components) ⚠️ Archived - Carbon Design System variant on top of Web Components.
 * [Kor](https://github.com/eduferfer/kor) ⭐ 290 | 🐛 19 | 🌐 JavaScript | 📅 2026-02-06 - An open source Design System and lightweight UI Component Library.
@@ -164,8 +164,8 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Component Libraries
 
-* [Wired Elements](https://github.com/rough-stuff/wired-elements) ⭐ 10,829 | 🐛 36 | 🌐 TypeScript | 📅 2023-10-07 - Collection of elements that appear hand drawn.
-* [Vidstack Elements](https://github.com/vidstack/vds-elements) ⭐ 3,667 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-21 - Spec-compliant customizable, extensible, accessible and universal media elements.
+* [Wired Elements](https://github.com/rough-stuff/wired-elements) ⭐ 10,827 | 🐛 36 | 🌐 TypeScript | 📅 2023-10-07 - Collection of elements that appear hand drawn.
+* [Vidstack Elements](https://github.com/vidstack/vds-elements) ⭐ 3,666 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-21 - Spec-compliant customizable, extensible, accessible and universal media elements.
 * [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) ⚠️ Archived - Collection of web components for the Microsoft Graph.
 * [AgnosticUI](https://github.com/AgnosticUI/agnosticui) ⭐ 825 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-30 - A CLI-based UI component library that copies Lit web components directly into your project. Full React and Vue wrappers for native framework experience.
 * [ESP Web Tools](https://github.com/esphome/esp-web-tools) ⭐ 681 | 🐛 60 | 🌐 TypeScript | 📅 2026-08-17 - Allow flashing ESPHome or other ESP-based firmwares via the browser.
@@ -175,19 +175,19 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 * [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) ⭐ 273 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-27 - ELMS:LN produced web components for any project.
 * [Wokwi Elements](https://github.com/wokwi/wokwi-elements) ⭐ 260 | 🐛 26 | 🌐 TypeScript | 📅 2026-08-06 - Web Components for Arduino and various electronic parts.
 * [Clever components](https://github.com/CleverCloud/clever-components) ⭐ 240 | 🐛 329 | 🌐 JavaScript | 📅 2026-08-28 - Collection of Web Components made by Clever Cloud.
-* [M3E](https://github.com/matraic/m3e) ⭐ 200 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-29 - Web Components implementing Material 3 Expressive.
+* [M3E](https://github.com/matraic/m3e) ⭐ 201 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-30 - Web Components implementing Material 3 Expressive.
 * [Curvenote](https://github.com/curvenote/article) ⭐ 199 | 🐛 20 | 🌐 TypeScript | 📅 2025-05-14 - Web components for creating interactive scientific articles.
 * [Ignite UI Web Components](https://github.com/IgniteUI/igniteui-webcomponents) ⭐ 169 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-26 - Complete library of UI components from Infragistics.
 * [Umbraco UI Components](https://github.com/umbraco/Umbraco.UI) ⭐ 151 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-26 - Collection of user interface web components for Umbraco CMS.
 * [Blackstone UI](https://github.com/kjantzer/bui) ⭐ 111 | 🐛 17 | 🌐 JavaScript | 📅 2026-06-30 - Web components for creating interfaces built with lit-html and LitElement.
-* [Dile Components](https://github.com/Polydile/dile-components) ⭐ 106 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-29 - General use Web Components for websites and applications.
+* [Dile Components](https://github.com/Polydile/dile-components) ⭐ 106 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-30 - General use Web Components for websites and applications.
 * [Stripe Elements](https://github.com/bennypowers/stripe-elements) ⭐ 84 | 🐛 17 | 🌐 TypeScript | 📅 2023-12-06 - Custom Element Wrapper for Stripe.js v3 Elements.
-* [Medblocks UI](https://github.com/medblocks/medblocks-ui) ⭐ 73 | 🐛 11 | 🌐 TypeScript | 📅 2025-05-29 - Web Components for rapid development of openEHR and FHIR systems.
+* [Medblocks UI](https://github.com/medblocks/medblocks-ui) ⭐ 72 | 🐛 11 | 🌐 TypeScript | 📅 2025-05-29 - Web Components for rapid development of openEHR and FHIR systems.
 * [TrendChart Elements](https://github.com/WebLogin/trendchart-elements) ⭐ 64 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-08 - Components to generate simple charts representing trends.
 * [One Platform Components](https://github.com/1-Platform/op-components) ⭐ 33 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-26 - Set of web components for Red Hat One Platform.
-* [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) ⭐ 29 | 🐛 44 | 🌐 HTML | 📅 2026-08-29 - A schema for mutation testing results with the web components to visualize it.
+* [Mutation testing elements](https://github.com/stryker-mutator/mutation-testing-elements) ⭐ 29 | 🐛 44 | 🌐 HTML | 📅 2026-08-30 - A schema for mutation testing results with the web components to visualize it.
 * [Titanium Elements](https://github.com/LeavittSoftware/titanium-elements) ⭐ 20 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-28 - Collection of lightweight web components used by Leavitt Group Enterprises.
-* [Web Components for TEI Publisher](https://github.com/eeditiones/tei-publisher-components) ⭐ 18 | 🐛 61 | 🌐 JavaScript | 📅 2026-08-26 - Web components used by TEI Publisher and apps generated by it.
+* [Web Components for TEI Publisher](https://github.com/eeditiones/tei-publisher-components) ⭐ 18 | 🐛 61 | 🌐 JavaScript | 📅 2026-08-30 - Web components used by TEI Publisher and apps generated by it.
 * [Fusion Web Components](https://github.com/equinor/fusion-web-components) ⭐ 13 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-28 - Ser of web components used by Equinor Fusion.
 * [Furo Webcomponents](https://github.com/eclipse/eclipsefuro-web) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-17 - Enterprise ready set of web components which work best with Eclipse Furo.
 * [Burnish Components](https://github.com/danfking/burnish/tree/main/packages/components) ⭐ 2 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-04 - Web components for rendering MCP tool-call output as UI.
@@ -197,15 +197,15 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Standalone Components
 
-* [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) ⭐ 8,219 | 🐛 117 | 🌐 TypeScript | 📅 2026-07-07 - A web component for rendering interactive 3D models.
-* [`<light-gallery>`](https://github.com/sachinchoolur/lightGallery/tree/master/lightgallery-lit) ⭐ 7,051 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-07 - Full featured JavaScript image and video gallery for Lit.
-* [`<editor-container>`](https://github.com/toeverything/blocksuite) ⭐ 5,996 | 🐛 195 | 🌐 TypeScript | 📅 2026-08-26 - Block based editor, designed for general-purpose collaborative applications.
+* [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) ⭐ 8,220 | 🐛 117 | 🌐 TypeScript | 📅 2026-07-07 - A web component for rendering interactive 3D models.
+* [`<light-gallery>`](https://github.com/sachinchoolur/lightGallery/tree/master/lightgallery-lit) ⭐ 7,052 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-07 - Full featured JavaScript image and video gallery for Lit.
+* [`<editor-container>`](https://github.com/toeverything/blocksuite) ⭐ 5,997 | 🐛 195 | 🌐 TypeScript | 📅 2026-08-26 - Block based editor, designed for general-purpose collaborative applications.
 * [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) ⭐ 1,899 | 🐛 138 | 🌐 JavaScript | 📅 2026-02-11 - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec.
 * [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) ⚠️ Archived - Web Component for easily embedding and playing Lottie animations.
-* [`<phantom-ui>`](https://github.com/Aejkatappaja/phantom-ui) ⭐ 789 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-31 - Structure-aware shimmer skeleton loader that measures the real DOM to generate overlay blocks automatically.
+* [`<phantom-ui>`](https://github.com/Aejkatappaja/phantom-ui) ⭐ 791 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-31 - Structure-aware shimmer skeleton loader that measures the real DOM to generate overlay blocks automatically.
 * [`<api-viewer>`](https://github.com/web-padawan/api-viewer-element) ⭐ 283 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-12 - API documentation and live playground for Web Components.
 * [`<json-viewer>`](https://github.com/alenaksu/json-viewer) ⭐ 242 | 🐛 8 | 🌐 TypeScript | 📅 2025-04-03 - Web Component to visualize JSON data in a tree view.
-* [`<responsive-image>`](https://github.com/simonihmig/responsive-image) ⭐ 210 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-27 - Web component for rendering responsive images.
+* [`<responsive-image>`](https://github.com/simonihmig/responsive-image) ⭐ 210 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-30 - Web component for rendering responsive images.
 * [`<app-datepicker>`](https://github.com/motss/app-datepicker) ⭐ 177 | 🐛 18 | 🌐 TypeScript | 📅 2026-07-08 - Datepicker element built with LitElement and Material Design 2.
 * [`<round-slider>`](https://github.com/thomasloven/round-slider) ⭐ 86 | 🐛 5 | 🌐 JavaScript | 📅 2024-09-27 - Simple round slider web component built with Lit.
 * [`<lit-datatable>`](https://github.com/DoubleTrade/lit-datatable) ⭐ 56 | 🐛 15 | 🌐 TypeScript | 📅 2023-01-07 - Material Design implementation of a data table, powered by LitElement.
@@ -257,7 +257,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ### Other Tools
 
-* [Web Component DevTools](https://github.com/Matsuuu/web-component-devtools) ⭐ 157 | 🐛 20 | 🌐 TypeScript | 📅 2025-12-08 - Browser extension for developers working with Web Components.
+* [Web Component DevTools](https://github.com/Matsuuu/web-component-devtools) ⭐ 158 | 🐛 20 | 🌐 TypeScript | 📅 2025-12-08 - Browser extension for developers working with Web Components.
 * [cem](https://github.com/bennypowers/cem) ⭐ 47 | 🐛 10 | 🌐 Go | 📅 2026-08-10 - CLI multitool for generating, validating, and querying Custom Elements Manifests, with built-in LSP and MCP servers.
 * [Asimonim](https://github.com/bennypowers/asimonim) ⭐ 29 | 🐛 3 | 🌐 Go | 📅 2026-07-22 - Design tokens parser, validator, and language server for the W3C DTCG specification.
 * [@custom-elements-manifest/analyzer](https://www.npmjs.com/package/@custom-elements-manifest/analyzer) - CLI tool to generate API documentation for web components.
@@ -280,7 +280,7 @@ See [lit.dev documentation](https://lit.dev/docs/getting-started/#use-bundles) f
 ## Integrations
 
 * [Ruby2JS](https://github.com/ruby2js/ruby2js) ⭐ 491 | 🐛 26 | 🌐 Ruby | 📅 2026-06-18 - Minimal yet extensible Ruby to JavaScript conversion.
-* [Fable.Lit](https://github.com/fable-compiler/Fable.Lit) ⭐ 95 | 🐛 16 | 🌐 F# | 📅 2023-02-12 - Collection of tools to embed HTML code into F# code with the power of Lit.
+* [Fable.Lit](https://github.com/fable-compiler/Fable.Lit) ⭐ 96 | 🐛 16 | 🌐 F# | 📅 2023-02-12 - Collection of tools to embed HTML code into F# code with the power of Lit.
 * [Bridgetown Lit Renderer](https://github.com/bridgetownrb/bridgetown-lit-renderer) ⭐ 14 | 🐛 0 | 🌐 Ruby | 📅 2025-09-16 - SSR + hydration of Lit components for Bridgetown.
 
 ## Videos
@@ -322,14 +322,14 @@ The following articles refer to older versions of lit-html and LitElement.
 These libraries are not related to Lit, but are built using similar concepts. They use `html` tagged
 template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugins) for syntax highlighting.
 
-* [htm](https://github.com/developit/htm) ⭐ 9,043 | 🐛 49 | 🌐 JavaScript | 📅 2024-02-01 - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
+* [htm](https://github.com/developit/htm) ⭐ 9,044 | 🐛 49 | 🌐 JavaScript | 📅 2024-02-01 - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 * [hybrids](https://github.com/hybridsjs/hybrids) ⭐ 3,174 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-07 - UI library for creating Web Components with simple and functional API.
 * [lit-ntml](https://github.com/motss/lit-ntml) ⭐ 82 | 🐛 4 | 🌐 TypeScript | 📅 2023-06-06 - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
 * [haunted](https://www.npmjs.com/package/haunted) - React's Hooks API but for standard web components and hyperHTML or lit-html.
 
 ## Other awesome resources
 
-**If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,153 | 🐛 105 | 📅 2026-08-21 list!**
+**If you want more awesome resources, check the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,448 | 🐛 105 | 📅 2026-08-21 list!**
 
 ***
 
@@ -339,4 +339,4 @@ template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
